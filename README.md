@@ -1,4 +1,4 @@
-##  **README.md Descontraído para o seu Projeto Flamengo Search** 
+##  **Flamengo Search** 
 
 ###  **O que faz essa aplicação?**
 
